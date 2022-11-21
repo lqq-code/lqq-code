@@ -6,6 +6,7 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+[![sssgoEasy](https://img.shields.io/badge/juejin-椰卤工程师-green)](https://juejin.cn/user/720897106518504)
 <p>
   <img
   width="334"
