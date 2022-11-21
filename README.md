@@ -6,7 +6,9 @@
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-[![sssgoEasy](https://img.shields.io/badge/juejin-椰卤工程师-green)](https://juejin.cn/user/720897106518504)
+[![椰卤工程师](https://img.shields.io/badge/juejin-椰卤工程师-green)](https://juejin.cn/user/720897106518504)
+[![椰卤工程师](https://img.shields.io/badge/csdn-椰卤工程师-blue)]([https://juejin.cn/user/720897106518504](https://blog.csdn.net/weixin_42224055?spm=1000.2115.3001.5343))
+
 <p>
   <img
   width="334"
