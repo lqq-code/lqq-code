@@ -16,6 +16,6 @@
   />
   <img
   width="460"
-  src="https://github-readme-stats.vercel.app/api?username=lqq-code&show_icons=true&&theme=radical&layout=compact"
+  src="https://readme-stats.clckblog.space/api?username=lqq-code"
   />
 </p>
