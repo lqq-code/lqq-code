@@ -16,6 +16,6 @@
   />
   <img
   width="460"
-  src="https://readme-stats.clckblog.space/api?username=lqq-code"
+  src="https://readme-stats.clckblog.space/api?username=lqq-code&show_icons=true&&theme=radical&layout=compact"
   />
 </p>
