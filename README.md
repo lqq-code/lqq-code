@@ -12,7 +12,7 @@
 </div>
 <div align="center" >
 <!-- GitHub 奖杯🏆 -->
-  <img  src="https://github-profile-trophy.vercel.app/?username=lqq-code&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" /><br>
+  <img  src="https://github-profile-trophy.vercel.app/?username=lqq-code&theme=nord&row=1&column=5&no-frame=true&no-bg=true" /><br>
   <img
   width="330"
   src="https://readme-stats.clckblog.space/api/top-langs/?username=lqq-code&hide=handlebars&langs_count=8&layout=compact&exclude_repo=blog,vuepress-theme-vdoing,hexo,hexo-theme-next,images&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
