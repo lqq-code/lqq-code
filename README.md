@@ -35,7 +35,7 @@ const choco = {
     "🎨 UI that feels alive",
   ],
 
-  playedIn: ["🔗 Blockchain", "🎮 Gaming", "🤖 AI", "🛡️ Cybersecurity"],
+  playedIn: ["🛡️ Cybersecurity", "🤖 AI", "🎮 Gaming", "🔗 Blockchain"],
 
   motto: "If it's not animated, is it even a UI?",
   fuel:  "☕ * n, where n > 2",
